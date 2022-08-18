@@ -1,4 +1,4 @@
-** oshutdownerr**
+**oshutdownerr**
 
 *A simple batch script & vbs no gui Utility that forces windows os shutdown after specified duration.*
 
