@@ -24,9 +24,9 @@ That's it..yeah windows does the rest.
 
 ~~version 1:~~ raw predifined paste of shutdown -s -t 00 onto run. & raw execution using clip and shell.
 
-~~version 2.0:~~ added vbs for simple autokey.~~
+~~version 2.0:~~ added vbs for simple autokey.
 
-~~version 2.1:~~ forced shutdown, fixed some minor bugs and cleaned up code.~~
+~~version 2.1:~~ forced shutdown, fixed some minor bugs and cleaned up code.
 
 ~~version 2.2:~~ fixed inputting errors.. cleaned up some code.
 
