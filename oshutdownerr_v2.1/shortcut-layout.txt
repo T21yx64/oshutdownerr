@@ -1,8 +1,0 @@
-rem shortcut layout
-rem windowsize
-rem w: 26
-rem h: 4
-rem 
-rem WindowPosition depends on dpi tho
-rem l: 1130
-rem t: 215
