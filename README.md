@@ -32,6 +32,8 @@ That's it..yeah windows does the rest.
 
 ~~version 2.3:~~ variables and choice for time adjustment. reduced variables, speed up execution. made code more readable
 
-~~version 2.4:~~ addedd double execution to remove rare latency or defocus error. often caused in windows 11. *(Latest)*
+~~version 2.4:~~ addedd double execution to remove rare latency or defocus error. often caused in windows 11.
+
+~~version 2.5:~~ changed few lines of double entry code to reduce chances of defocus error. often caused in windows 11 for some reason. *(Latest)*
 
 *future* version 3: Add more options for sleep and hibernate.
