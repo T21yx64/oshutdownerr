@@ -20,7 +20,7 @@ it opens run, and natively executes the shutdown command by pasting it there.
 
 That's it..yeah windows does the rest.
 
-** version timeline:-**
+**version timeline:-**
 
 ~~version 1:~~ raw predifined paste of shutdown -s -t 00 onto run. & raw execution using clip and shell.
 
